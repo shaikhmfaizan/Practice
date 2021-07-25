@@ -1,0 +1,42 @@
+  
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color:black;
+    font-family: sans-serif;
+}
+
+.box {
+width: 50%;
+float: left;
+}
+
+
+.box1 {
+    width: 50%;
+    
+    background-color: black;
+    color: white;
+    float: right;
+    }
+
+.abc
+{
+    display: inline-block;
+    padding:6px ;
+    background-color: black;
+    color: white;
+}
+
+.button{
+    background-color: blue; 
+    border-color:rgb(29,161,242);  
+    width: 400px; 
+    height: 50px; 
+    border-radius: 50px; 
+    margin-left: 2%;  
+    font-size: medium; 
+    font-weight: 400; 
+    font-weight: bold; 
+}
